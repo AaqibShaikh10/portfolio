@@ -1,0 +1,392 @@
+{
+    "profile": {
+        "name": "Aaqib Shaikh",
+        "login": "AaqibShaikh10",
+        "bio": null,
+        "location": "Karachi, Pakistan",
+        "avatar_url": "https://avatars.githubusercontent.com/u/122724665?v=4",
+        "html_url": "https://github.com/AaqibShaikh10",
+        "followers": 6,
+        "following": 2,
+        "public_repos": 14
+    },
+    "repositories": [
+        {
+            "name": "DeepSafe",
+            "full_name": "AaqibShaikh10/DeepSafe",
+            "html_url": "https://github.com/AaqibShaikh10/DeepSafe",
+            "description": "DeepSafe An AI Based Deepfake Detection System For Videos And Audios.",
+            "language": "TypeScript",
+            "stargazers_count": 3,
+            "forks_count": 0,
+            "topics": [],
+            "homepage": null,
+            "updated_at": "2026-02-15T13:38:29Z",
+            "created_at": "2026-01-17T15:04:25Z"
+        },
+        {
+            "name": "Heart-Disease-Prediction-And-Analysis",
+            "full_name": "AaqibShaikh10/Heart-Disease-Prediction-And-Analysis",
+            "html_url": "https://github.com/AaqibShaikh10/Heart-Disease-Prediction-And-Analysis",
+            "description": "Machine learning project predicting heart disease risk from clinical features. Python + FastAPI + React.",
+            "language": "Python",
+            "stargazers_count": 3,
+            "forks_count": 0,
+            "topics": [
+                "classification",
+                "data-mining",
+                "fastapi",
+                "healthcare",
+                "heart-disease",
+                "machine-learning",
+                "python",
+                "random-forest",
+                "react",
+                "scikit-learn"
+            ],
+            "homepage": "",
+            "updated_at": "2026-02-12T15:31:23Z",
+            "created_at": "2026-01-04T15:34:20Z"
+        },
+        {
+            "name": "WebAirDrop",
+            "full_name": "AaqibShaikh10/WebAirDrop",
+            "html_url": "https://github.com/AaqibShaikh10/WebAirDrop",
+            "description": "Instantly share files across devices using WebRTC. Secure, serverless, and unlimited file sizes.",
+            "language": "JavaScript",
+            "stargazers_count": 3,
+            "forks_count": 0,
+            "topics": [],
+            "homepage": "",
+            "updated_at": "2026-02-12T15:31:21Z",
+            "created_at": "2026-02-08T09:22:09Z"
+        },
+        {
+            "name": "AI-Enabled-Intelligent-Traffic-Management-System",
+            "full_name": "AaqibShaikh10/AI-Enabled-Intelligent-Traffic-Management-System",
+            "html_url": "https://github.com/AaqibShaikh10/AI-Enabled-Intelligent-Traffic-Management-System",
+            "description": null,
+            "language": "HTML",
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "topics": [],
+            "homepage": null,
+            "updated_at": "2026-02-22T00:54:04Z",
+            "created_at": "2026-02-22T00:44:11Z"
+        },
+        {
+            "name": "multilingual-news-platform",
+            "full_name": "AaqibShaikh10/multilingual-news-platform",
+            "html_url": "https://github.com/AaqibShaikh10/multilingual-news-platform",
+            "description": null,
+            "language": "Python",
+            "stargazers_count": 3,
+            "forks_count": 0,
+            "topics": [],
+            "homepage": null,
+            "updated_at": "2026-02-12T15:31:25Z",
+            "created_at": "2025-11-15T17:56:48Z"
+        },
+        {
+            "name": "dice_app",
+            "full_name": "AaqibShaikh10/dice_app",
+            "html_url": "https://github.com/AaqibShaikh10/dice_app",
+            "description": "A simple Flutter dice rolling app",
+            "language": "C++",
+            "stargazers_count": 5,
+            "forks_count": 1,
+            "topics": [],
+            "homepage": "https://dice-app-tan.vercel.app",
+            "updated_at": "2026-02-12T15:31:29Z",
+            "created_at": "2025-03-03T00:36:52Z"
+        },
+        {
+            "name": "pdc-rag-chatbot",
+            "full_name": "AaqibShaikh10/pdc-rag-chatbot",
+            "html_url": "https://github.com/AaqibShaikh10/pdc-rag-chatbot",
+            "description": null,
+            "language": "Python",
+            "stargazers_count": 3,
+            "forks_count": 0,
+            "topics": [],
+            "homepage": "https://pdc-rag-chatbot.vercel.app",
+            "updated_at": "2026-02-12T15:31:29Z",
+            "created_at": "2025-06-14T18:40:40Z"
+        },
+        {
+            "name": "rag-chatbot",
+            "full_name": "AaqibShaikh10/rag-chatbot",
+            "html_url": "https://github.com/AaqibShaikh10/rag-chatbot",
+            "description": null,
+            "language": "Python",
+            "stargazers_count": 3,
+            "forks_count": 0,
+            "topics": [],
+            "homepage": "https://rag-chatbot-seven-pied.vercel.app",
+            "updated_at": "2026-02-12T15:31:28Z",
+            "created_at": "2025-06-17T14:56:43Z"
+        },
+        {
+            "name": "pdc-project",
+            "full_name": "AaqibShaikh10/pdc-project",
+            "html_url": "https://github.com/AaqibShaikh10/pdc-project",
+            "description": null,
+            "language": "Python",
+            "stargazers_count": 3,
+            "forks_count": 0,
+            "topics": [],
+            "homepage": null,
+            "updated_at": "2026-02-12T15:31:28Z",
+            "created_at": "2025-06-17T16:12:08Z"
+        },
+        {
+            "name": "final",
+            "full_name": "AaqibShaikh10/final",
+            "html_url": "https://github.com/AaqibShaikh10/final",
+            "description": null,
+            "language": "Python",
+            "stargazers_count": 3,
+            "forks_count": 0,
+            "topics": [],
+            "homepage": null,
+            "updated_at": "2026-02-12T15:31:26Z",
+            "created_at": "2025-06-17T16:58:16Z"
+        },
+        {
+            "name": "pakistan-website",
+            "full_name": "AaqibShaikh10/pakistan-website",
+            "html_url": "https://github.com/AaqibShaikh10/pakistan-website",
+            "description": null,
+            "language": "TypeScript",
+            "stargazers_count": 3,
+            "forks_count": 0,
+            "topics": [],
+            "homepage": "https://pakistan-website.vercel.app",
+            "updated_at": "2026-02-12T15:31:26Z",
+            "created_at": "2025-08-17T00:25:15Z"
+        },
+        {
+            "name": "deepdive-learn",
+            "full_name": "AaqibShaikh10/deepdive-learn",
+            "html_url": "https://github.com/AaqibShaikh10/deepdive-learn",
+            "description": null,
+            "language": "TypeScript",
+            "stargazers_count": 3,
+            "forks_count": 0,
+            "topics": [],
+            "homepage": null,
+            "updated_at": "2026-02-12T15:31:25Z",
+            "created_at": "2025-09-17T22:07:20Z"
+        },
+        {
+            "name": "DeepSafe-Frontend",
+            "full_name": "AaqibShaikh10/DeepSafe-Frontend",
+            "html_url": "https://github.com/AaqibShaikh10/DeepSafe-Frontend",
+            "description": null,
+            "language": "TypeScript",
+            "stargazers_count": 3,
+            "forks_count": 0,
+            "topics": [],
+            "homepage": "https://deep-safe-frontend.vercel.app",
+            "updated_at": "2026-02-12T15:31:24Z",
+            "created_at": "2025-12-29T21:33:51Z"
+        }
+    ],
+    "featuredProjects": [
+        {
+            "name": "DeepSafe",
+            "title": "DeepSafe",
+            "summary": "Full-stack deepfake detection system that analyzes video and audio files for AI-generated manipulation using deep learning models.",
+            "bullets": [
+                "Detects video deepfakes using XceptionNet CNN trained on facial manipulation artifacts",
+                "Identifies synthetic audio and voice cloning via AASIST graph attention networks",
+                "Provides per-file confidence scores, PDF reports, and an admin analytics dashboard",
+                "Supports user authentication, detection history, and batch processing"
+            ],
+            "tech": [
+                "TypeScript",
+                "React",
+                "Django",
+                "TensorFlow",
+                "PyTorch",
+                "PostgreSQL"
+            ],
+            "repoUrl": "https://github.com/AaqibShaikh10/DeepSafe",
+            "demoUrl": null,
+            "language": "TypeScript",
+            "stars": 3,
+            "forks": 0,
+            "updatedAt": "2026-02-15T13:38:29Z"
+        },
+        {
+            "name": "Heart-Disease-Prediction-And-Analysis",
+            "title": "Heart Disease Prediction",
+            "summary": "Machine learning pipeline that predicts heart disease risk from 11 clinical features, served through a FastAPI backend and React frontend.",
+            "bullets": [
+                "Trains and evaluates Random Forest, SVM, KNN, and Logistic Regression classifiers",
+                "Achieves 90%+ accuracy on the Cleveland heart disease dataset with 5-fold cross-validation",
+                "REST API accepts patient data and returns risk prediction with probability scores",
+                "Interactive frontend with data visualizations and feature correlation charts"
+            ],
+            "tech": [
+                "Python",
+                "scikit-learn",
+                "FastAPI",
+                "React",
+                "Pandas"
+            ],
+            "repoUrl": "https://github.com/AaqibShaikh10/Heart-Disease-Prediction-And-Analysis",
+            "demoUrl": null,
+            "language": "Python",
+            "stars": 3,
+            "forks": 0,
+            "updatedAt": "2026-02-12T15:31:23Z"
+        },
+        {
+            "name": "AI-Enabled-Intelligent-Traffic-Management-System",
+            "title": "AI Traffic Management System",
+            "summary": "Real-time traffic management system using computer vision to analyze lane congestion and dynamically control signal timing.",
+            "bullets": [
+                "Detects and counts vehicles per lane using YOLOv8 nano model",
+                "Identifies emergency vehicles (ambulances, fire trucks) via Roboflow inference API",
+                "Calculates green-light duration proportional to vehicle density, clamped between 10-60 seconds",
+                "Grants automatic priority to lanes with detected emergency vehicles"
+            ],
+            "tech": [
+                "Python",
+                "Flask",
+                "YOLOv8",
+                "OpenCV",
+                "JavaScript"
+            ],
+            "repoUrl": "https://github.com/AaqibShaikh10/AI-Enabled-Intelligent-Traffic-Management-System",
+            "demoUrl": null,
+            "language": "HTML",
+            "stars": 0,
+            "forks": 0,
+            "updatedAt": "2026-02-22T00:54:04Z"
+        },
+        {
+            "name": "WebAirDrop",
+            "title": "WebAirDrop",
+            "summary": "Peer-to-peer file transfer tool that sends files directly between browsers using WebRTC, with no server storage or file size limits.",
+            "bullets": [
+                "Transfers files device-to-device over WebRTC data channels without uploading to any server",
+                "Works cross-platform across Windows, macOS, Android, and iOS browsers",
+                "Handles multiple concurrent file transfers through a queuing system",
+                "Uses Socket.io signaling server for WebRTC connection negotiation"
+            ],
+            "tech": [
+                "JavaScript",
+                "WebRTC",
+                "Socket.io",
+                "Node.js",
+                "Vite"
+            ],
+            "repoUrl": "https://github.com/AaqibShaikh10/WebAirDrop",
+            "demoUrl": null,
+            "language": "JavaScript",
+            "stars": 3,
+            "forks": 0,
+            "updatedAt": "2026-02-12T15:31:21Z"
+        },
+        {
+            "name": "multilingual-news-platform",
+            "title": "Multilingual News Platform",
+            "summary": "NLP-driven news aggregation platform that summarizes and analyzes sentiment across 10+ languages including Arabic, Hindi, Urdu, and Chinese.",
+            "bullets": [
+                "Performs real-time news summarization using natural language processing",
+                "Runs sentiment analysis on multilingual text content",
+                "Supports Arabic, Hindi, Urdu, Chinese, and several other languages",
+                "Aggregates and processes news from multiple sources"
+            ],
+            "tech": [
+                "Python",
+                "NLP",
+                "Transformers",
+                "FastAPI"
+            ],
+            "repoUrl": "https://github.com/AaqibShaikh10/multilingual-news-platform",
+            "demoUrl": null,
+            "language": "Python",
+            "stars": 3,
+            "forks": 0,
+            "updatedAt": "2026-02-12T15:31:25Z"
+        },
+        {
+            "name": "pdc-rag-chatbot",
+            "title": "RAG Document Chatbot",
+            "summary": "Retrieval-Augmented Generation chatbot that answers questions by searching and reasoning over uploaded documents.",
+            "bullets": [
+                "Indexes uploaded documents for retrieval-augmented question answering",
+                "Generates context-aware responses grounded in document content",
+                "Deployed on Vercel with a live demo interface",
+                "Built with Python backend and modern RAG architecture"
+            ],
+            "tech": [
+                "Python",
+                "LangChain",
+                "RAG",
+                "Vercel"
+            ],
+            "repoUrl": "https://github.com/AaqibShaikh10/pdc-rag-chatbot",
+            "demoUrl": "https://pdc-rag-chatbot.vercel.app",
+            "language": "Python",
+            "stars": 3,
+            "forks": 0,
+            "updatedAt": "2026-02-12T15:31:29Z"
+        }
+    ],
+    "skills": [
+        {
+            "category": "Languages",
+            "items": [
+                "Python",
+                "TypeScript",
+                "JavaScript",
+                "C++",
+                "HTML",
+                "CSS",
+                "SQL"
+            ]
+        },
+        {
+            "category": "Frameworks",
+            "items": [
+                "React",
+                "Django",
+                "FastAPI",
+                "Flask",
+                "Node.js",
+                "Vite",
+                "Flutter"
+            ]
+        },
+        {
+            "category": "AI / ML",
+            "items": [
+                "TensorFlow",
+                "PyTorch",
+                "scikit-learn",
+                "OpenCV",
+                "YOLOv8",
+                "LangChain",
+                "NLP",
+                "RAG"
+            ]
+        },
+        {
+            "category": "Tools",
+            "items": [
+                "Git",
+                "PostgreSQL",
+                "WebRTC",
+                "Socket.io",
+                "Vercel",
+                "Roboflow",
+                "Pandas"
+            ]
+        }
+    ],
+    "generatedAt": "2026-03-04T05:25:00Z"
+}
