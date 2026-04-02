@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import { Link } from 'react-router-dom';
 
 const NAV_LINKS = [
     { label: 'About', href: '#about' },
@@ -39,7 +40,7 @@ export default function Header() {
     return (
         <header className={`header${scrolled ? ' scrolled' : ''}`}>
             <div className="container header-inner">
-                <a href="#" className="header-brand">
+                <a href="/" className="header-brand">
                     <span className="header-name">Aaqib Shaikh</span>
                     <span className="header-dot" />
                 </a>
@@ -49,6 +50,7 @@ export default function Header() {
                             {link.label}
                         </a>
                     ))}
+                    <Link to="/blog">Blog</Link>
                     <button
                         className="theme-toggle"
                         onClick={toggleTheme}
@@ -90,6 +92,9 @@ export default function Header() {
                         {link.label}
                     </a>
                 ))}
+                <Link to="/blog" onClick={() => setMenuOpen(false)}>
+                    Blog
+                </Link>
                 <a href="#contact" onClick={() => setMenuOpen(false)}>
                     Get in touch
                 </a>
@@ -97,3 +102,4 @@ export default function Header() {
         </header>
     );
 }
+

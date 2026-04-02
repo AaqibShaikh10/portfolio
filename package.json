@@ -5,13 +5,16 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
+    "sitemap": "node scripts/generate-sitemap.mjs",
+    "build": "npm run sitemap && tsc && vite build",
     "preview": "vite preview",
     "data:refresh": "node scripts/fetch-github-data.mjs"
   },
   "dependencies": {
+    "marked": "^15.0.12",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
+    "react-router-dom": "^6.30.3",
     "resend": "^6.9.3"
   },
   "devDependencies": {
