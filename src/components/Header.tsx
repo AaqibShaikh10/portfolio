@@ -50,7 +50,7 @@ export default function Header() {
                             {link.label}
                         </a>
                     ))}
-                    <Link to="/blog">Blog</Link>
+                    <Link to="/blog">Blogs</Link>
                     <button
                         className="theme-toggle"
                         onClick={toggleTheme}
@@ -93,7 +93,7 @@ export default function Header() {
                     </a>
                 ))}
                 <Link to="/blog" onClick={() => setMenuOpen(false)}>
-                    Blog
+                    Blogs
                 </Link>
                 <a href="#contact" onClick={() => setMenuOpen(false)}>
                     Get in touch

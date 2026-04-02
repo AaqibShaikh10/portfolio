@@ -88,7 +88,7 @@ export default function BlogPost() {
                         <span className="section-label">404</span>
                         <h1 className="section-title">Post not found</h1>
                         <p className="section-subtitle">
-                            That post doesn't exist — maybe the URL changed.
+                            That post doesn't exist -- maybe the URL changed.
                         </p>
                         <Link to="/blog" className="btn btn-primary">
                             ← Back to Blog
@@ -144,7 +144,7 @@ export default function BlogPost() {
                 <div className="container">
                     <div
                         className="blog-post-content"
-                        /* Content is authored in blogPosts.ts — no user input, XSS risk is zero */
+                        /* Content is authored in blogPosts.ts, no user input, XSS risk is zero */
                         dangerouslySetInnerHTML={{ __html: post.content }}
                     />
 

@@ -24,7 +24,7 @@ export default function Blog() {
             document.head.appendChild(descEl);
         }
         descEl.content =
-            'Technical writing by Aaqib Shaikh — AI systems, software engineering, and infrastructure.';
+            'Technical writing by Aaqib Shaikh on AI systems, software engineering, and infrastructure.';
 
         // Canonical
         let canonEl = document.querySelector<HTMLLinkElement>('link[rel="canonical"]');
