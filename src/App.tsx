@@ -9,6 +9,7 @@ import Contact from './components/Contact';
 import Footer from './components/Footer';
 import Blog from './pages/Blog';
 import BlogPost from './pages/BlogPost';
+import NotFound from './pages/NotFound';
 import siteData from './data/github.json';
 import type { SiteData } from './data/types';
 
@@ -36,6 +37,7 @@ export default function App() {
                 <Route path="/" element={<HomePage />} />
                 <Route path="/blog" element={<Blog />} />
                 <Route path="/blog/:slug" element={<BlogPost />} />
+                <Route path="*" element={<NotFound />} />
             </Routes>
             <Footer />
         </>
