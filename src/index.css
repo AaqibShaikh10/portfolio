@@ -980,14 +980,7 @@ table {
   }
 
   .hero-photo-wrap {
-    width: 100%;
-    max-width: 360px;
-    align-self: auto;
-  }
-
-  .hero-photo {
-    min-height: 260px;
-    object-position: center 12%;
+    display: none;
   }
 
   .footer-grid {
