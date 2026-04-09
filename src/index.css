@@ -979,6 +979,7 @@ table {
     gap: var(--space-6);
   }
 
+  /* Hide the photo on anything smaller than a laptop — text only on mobile */
   .hero-photo-wrap {
     display: none;
   }
