@@ -38,13 +38,14 @@ export default function Hero({ profile }: HeroProps) {
                             </a>
                         </div>
                     </div>
-                    <img
-                        src={profile.avatar_url}
-                        alt="Aaqib Shaikh"
-                        className="hero-avatar"
-                        width="220"
-                        height="220"
-                    />
+                    <div className="hero-photo-wrap">
+                        <img
+                            src="/aaqib.png"
+                            alt="Aaqib Shaikh"
+                            className="hero-photo"
+                        />
+                        <div className="hero-photo-overlay" aria-hidden="true" />
+                    </div>
                 </div>
             </div>
         </section>
