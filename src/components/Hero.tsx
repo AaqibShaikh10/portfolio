@@ -39,12 +39,16 @@ export default function Hero({ profile }: HeroProps) {
                         </div>
                     </div>
                     <div className="hero-photo-wrap">
-                        <img
-                            src="/aaqib.png"
-                            alt="Aaqib Shaikh"
-                            className="hero-photo"
-                        />
-                        <div className="hero-photo-overlay" aria-hidden="true" />
+                        <picture>
+                            <source srcSet="/aaqib.webp" type="image/webp" />
+                            <img
+                                src="/aaqib.png"
+                                alt="Aaqib Shaikh"
+                                className="hero-photo"
+                                loading="eager"
+                                decoding="async"
+                            />
+                        </picture>
                     </div>
                 </div>
             </div>
