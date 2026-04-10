@@ -10,6 +10,7 @@ import Footer from './components/Footer';
 import Blog from './pages/Blog';
 import BlogPost from './pages/BlogPost';
 import NotFound from './pages/NotFound';
+import ScrollToTop from './components/ScrollToTop';
 import siteData from './data/github.json';
 import type { SiteData } from './data/types';
 
@@ -32,6 +33,7 @@ function HomePage() {
 export default function App() {
     return (
         <>
+            <ScrollToTop />
             <Header />
             <Routes>
                 <Route path="/" element={<HomePage />} />
