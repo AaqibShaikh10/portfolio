@@ -33,6 +33,13 @@ export default function Hero({ profile }: HeroProps) {
                             >
                                 GitHub
                             </a>
+                            <a
+                                href="/Aaqib-resume.pdf"
+                                download="Aaqib-Shaikh-Resume.pdf"
+                                className="btn"
+                            >
+                                Resume
+                            </a>
                             <a href="#contact" className="btn">
                                 Contact
                             </a>

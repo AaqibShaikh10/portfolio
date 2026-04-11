@@ -51,6 +51,12 @@ export default function Header() {
                         </a>
                     ))}
                     <Link to="/blog">Blogs</Link>
+                    <a
+                        href="/Aaqib-resume.pdf"
+                        download="Aaqib-Shaikh-Resume.pdf"
+                    >
+                        Resume
+                    </a>
                     <button
                         className="theme-toggle"
                         onClick={toggleTheme}
@@ -95,6 +101,13 @@ export default function Header() {
                 <Link to="/blog" onClick={() => setMenuOpen(false)}>
                     Blogs
                 </Link>
+                <a
+                    href="/Aaqib-resume.pdf"
+                    download="Aaqib-Shaikh-Resume.pdf"
+                    onClick={() => setMenuOpen(false)}
+                >
+                    Resume
+                </a>
                 <a href="/#contact" onClick={() => setMenuOpen(false)}>
                     Get in touch
                 </a>

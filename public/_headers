@@ -5,6 +5,11 @@
 /robots.txt
   Cache-Control: public, max-age=86400
 
+/Aaqib-resume.pdf
+  Content-Type: application/pdf
+  Content-Disposition: attachment; filename="Aaqib-Shaikh-Resume.pdf"
+  Cache-Control: public, max-age=604800
+
 /*
   X-Content-Type-Options: nosniff
   X-Frame-Options: DENY
