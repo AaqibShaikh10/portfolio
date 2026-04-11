@@ -47,6 +47,15 @@ export default function About({ profile }: AboutProps) {
                             {profile.public_repos} public repositories on GitHub, with work
                             spanning AI/ML research prototypes to full-stack web applications.
                         </p>
+                        <a
+                            href="/aaqib-resume.pdf"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="about-resume-link"
+                            aria-label="View full resume (opens PDF)"
+                        >
+                            View full resume ↗
+                        </a>
                     </div>
                     <div className="about-details">
                         <table>

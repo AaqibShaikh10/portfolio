@@ -547,6 +547,22 @@ table {
   font-size: var(--text-xs);
 }
 
+.btn-resume {
+  border-color: var(--color-accent);
+  color: var(--color-accent);
+  background-color: transparent;
+  letter-spacing: 0.02em;
+}
+
+.btn-resume:hover,
+.btn-resume:focus-visible {
+  background-color: var(--color-accent);
+  border-color: var(--color-accent);
+  color: white;
+  box-shadow: 0 4px 16px rgba(45, 90, 39, 0.25);
+}
+
+
 /* --- About --- */
 .about-content {
   display: grid;
@@ -562,9 +578,31 @@ table {
   margin-bottom: var(--space-5);
 }
 
-.about-text p:last-child {
-  margin-bottom: 0;
+.about-text p:last-of-type {
+  margin-bottom: var(--space-5);
 }
+
+.about-resume-link {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-1);
+  font-size: var(--text-sm);
+  font-weight: 600;
+  color: var(--color-accent);
+  text-decoration: none;
+  letter-spacing: 0.01em;
+  border-bottom: 1px solid transparent;
+  padding-bottom: 1px;
+  transition: border-color var(--duration-fast) var(--ease-out),
+    color var(--duration-fast) var(--ease-out);
+}
+
+.about-resume-link:hover,
+.about-resume-link:focus-visible {
+  color: var(--color-accent-hover);
+  border-bottom-color: var(--color-accent-hover);
+}
+
 
 .about-details {
   background-color: var(--color-bg-elevated);

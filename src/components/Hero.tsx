@@ -22,7 +22,7 @@ export default function Hero({ profile }: HeroProps) {
                             full stack.
                         </p>
                         <div className="hero-actions">
-                            <a href="#work" className="btn btn-primary">
+                            <a href="/#work" className="btn btn-primary">
                                 View work
                             </a>
                             <a
@@ -33,15 +33,17 @@ export default function Hero({ profile }: HeroProps) {
                             >
                                 GitHub
                             </a>
-                            <a
-                                href="/Aaqib-resume.pdf"
-                                download="Aaqib-Shaikh-Resume.pdf"
-                                className="btn"
-                            >
-                                Resume
-                            </a>
-                            <a href="#contact" className="btn">
+                            <a href="/#contact" className="btn">
                                 Contact
+                            </a>
+                            <a
+                                href="/aaqib-resume.pdf"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="btn btn-resume"
+                                aria-label="View Aaqib Shaikh's resume (opens PDF)"
+                            >
+                                Resume ↗
                             </a>
                         </div>
                     </div>
